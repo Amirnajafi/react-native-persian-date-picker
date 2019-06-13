@@ -1,5 +1,5 @@
 {
-  "name": "react-native-persian-date-picker",
+  "name": "react-native-jalaali-date-picker",
   "version": "1.0.0",
   "description": "Persian (Jalaali) Date Picker Component for React Native",
   "main": "src/index.js",
@@ -51,7 +51,7 @@
   },
   "contributors": [
     {
-      "name": "Amirnajafi",
+      "name": "amirnajafi",
       "email": "amir.najafi66@gmail.com"
     }
   ],

@@ -13,7 +13,7 @@ This is a Jalaali (Persian) Date Picker Component for React Native
 The package is both **Android** and **iOS** compatible.
 
 ## Installation
-`$ yarn add react-native-jalaali-date-picker`
+`$ npm install --save react-native-jalaali-date-picker`
 
 # Prerequisites
 
