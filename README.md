@@ -24,7 +24,7 @@ DatePicker requires Moment JS.  Date props may be anything parseable by Moment: 
 How to use it:
 ``` 
 import React, {Component} from 'react';
-import DatePicker from './persianDatePicker'
+import DatePicker from 'react-native-jalaali-date-picker'
 
 export default class App extends Component {
     render() {
