@@ -33,16 +33,16 @@ import React, {Component} from 'react';
 import DatePicker from './persianDatePicker'
 
 export default class App extends Component {
-render() {
-return (
-<DatePicker
-showTitleDate={true}
-onChangeDate={(date)=>{
-console.log(date)
-}}
-/>
-);
-}
+  render() {
+    return (
+      <DatePicker
+        showTitleDate={true}
+        onChangeDate={(date)=>{
+        console.log(date)
+        }}
+      />
+    );
+  }
 }
 ```
 
