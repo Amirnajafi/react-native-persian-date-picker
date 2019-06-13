@@ -14,7 +14,9 @@ The package is both **Android** and **iOS** compatible.
 
 ## Installation
 `$ npm install --save react-native-jalaali-date-picker`
+or 
 
+`$ yarn add react-native-jalaali-date-picker`
 # Prerequisites
 
 DatePicker requires Moment JS.  Date props may be anything parseable by Moment: Javascript Date, Moment date, or ISO8601 datetime string.
