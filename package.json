@@ -1,0 +1,62 @@
+{
+  "name": "react-native-persian-date-picker",
+  "version": "1.0.0",
+  "description": "Persian (Jalaali) Date Picker Component for React Native",
+  "main": "src/index.js",
+  "scripts": {
+    "pretest": "npm run lint",
+    "lint": "eslint .",
+    "test": "eslint ."
+  },
+  "files": [
+    "src/"
+  ],
+  "keyword": [
+    "persian",
+    "jalaali",
+    "calendar",
+    "datepicker",
+    "picker",
+    "date",
+    "react",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "Amir Najafi",
+    "email": "amir.najafi66@gmail.com"
+  },
+  "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,css,md}": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "moment-jalaali": "0.8.1"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-react-native": "^4.0.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "homepage": "https://github.com/Amirnajafi/react-native-persian-date-picker",
+  "bugs": {
+    "url": "https://github.com/Amirnajafi/react-native-persian-date-picker/issues"
+  },
+  "contributors": [
+    {
+      "name": "Amirnajafi",
+      "email": "amir.najafi66@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amirnajafi/react-native-persian-date-picker"
+  }
+}
