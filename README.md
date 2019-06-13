@@ -59,16 +59,7 @@ export default class App extends Component {
 | **`onChangeDate`** | `Function` | Optional. return date on changing |
 
 
-# Styles
-Some styles will overwrite some won't. For instance:
-- If you provide textStyle with fontFamily and color, out of ranges dates will not apply your color, just fontFamily.
 
-Order of precedence:
-
-- defaultColor => textStyle => selectedDayColor
-- defaultTodayBackgroundColor => todayBackgroundColor
-- defaultBackgroundColor => selectedDayColor
-- defaultTextStyles => textStyle => selectedDayTextColor
 
 # Suggestions?
 
